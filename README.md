@@ -1,4 +1,4 @@
-# MMF_TDE
+# MFF_TDE
 Arquivos do TDE de Modelagem de Fenômenos Físicos
 
 Grupo: 
