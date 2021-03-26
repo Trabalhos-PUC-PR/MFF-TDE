@@ -1,9 +1,7 @@
-#Sabendo que a
-#bactéria B se reproduz a cada 2 minutos, criando uma nova #bactéria. Sabendo que a cada geração apenas 80% das bactérias #sobrevivem
-#para se reproduzir, responda: quantas bactérias
-#existirão nesta colônia depois de 14 minutos? Sabendo que #inicialmente havia apenas 10 bactérias nesta
-#colônia. 
-
+#Sabendo que a bactéria B se reproduz a cada 2 minutos, criando uma nova bactéria.
+#Sabendo que a cada geração apenas 80% das bactérias sobrevivem para se reproduzir, responda:
+#Quantas bactérias existirão nesta colônia depois de 14 minutos?
+#Sabendo que inicialmente havia apenas 10 bactérias nesta colônia. 
 
 import matplotlib.pyplot as plt
 import numpy as np
